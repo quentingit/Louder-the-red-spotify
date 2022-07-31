@@ -1,5 +1,7 @@
 # Louder-the-red-spotify 🔴
  
+ >This code was write in one day to test spotify api, and use a music player 
+ 
  <img src="https://github.com/quentingit/Louder-the-red-spotify/blob/main/assets/images/icon.png" width="150">
 
 
